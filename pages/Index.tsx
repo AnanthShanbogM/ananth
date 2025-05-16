@@ -1,7 +1,7 @@
 
 // Update this page (the content is just a fallback if you fail to update the page)
 
-import { Calculator } from "@/components/Calculator/Calculator";
+import { Calculator } from "src/components/Calculator/Calculator";
 
 const Index = () => {
   return (
